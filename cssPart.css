@@ -1,0 +1,38 @@
+h3{
+    color: rgb(8, 115, 153);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 50px;
+}
+
+body{
+    background-color: rgba(27 37 48);
+}
+
+.content{
+    background-color: rgb(27 37 48);
+    height: 300px;
+}
+
+table{
+    background-color: rgb(39 44 50);
+    margin-left: 30%;
+    border: 10px solid;
+    border-color: rgb(43 70 79);
+}
+
+td{
+    color: #adadad;
+    padding-right: 200px;
+}
+hr{
+    border: 4px solid #adadad;
+}
+
+#language{
+    padding-right: 30px;
+}
+#secondStar{
+    padding-right: 10px;
+}
