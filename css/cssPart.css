@@ -1,0 +1,147 @@
+p{
+    color: #adadad;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+h3{
+    color: rgb(8, 115, 153);
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 20px;
+}
+h1{
+    color: #adadad;
+    font-size: 60px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgba(27 37 48);
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+.content1{
+    background-color:  rgba(27 37 48);
+    margin: 0;
+    position: relative;
+}
+
+table{
+    background-color: rgb(39 44 50);
+    margin-left: 27%;
+    margin-top: 20px;
+    border: 10px solid;
+    border-color: rgb(43 70 79);
+}
+
+td{
+    color: #adadad;
+    padding-right: 200px;
+}
+hr{
+    border: 4px solid #adadad;
+}
+
+#language{
+    padding-right: 30px;
+}
+#secondStar{
+    padding-right: 10px;
+}
+
+#infoInicial{
+    margin-left: 10%;
+    border-radius: 30px;
+    border: 5px solid rgb(43 70 79);
+    margin-right: 10%;
+}
+
+#mountain{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 0;
+}
+
+#firstCloud{
+    margin-bottom: 0px;
+    top: 90px;
+    position: absolute;
+    left: 60px;
+}
+
+#thirdCloud{
+    margin-left: 50%;
+    margin-bottom: 0;
+    position: relative;
+    top: 100px;
+    left: 40px;
+
+}
+
+#secondCloud{
+    margin-left: 20%;
+    position: relative;
+    top: 80px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+#profilePic{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+
+.profile{
+    position: relative;
+    text-align: center;
+}
+
+#profileH{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #adadad;
+    text-align: center;
+}
+h2{
+    padding-top: 100px;
+    padding-bottom: 70px;
+    color: #adadad;
+    text-align: center;
+}
+
+#mydescription{
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+.footer-link{
+    color: #84c6ef;
+    display: inline;
+}
+
+.btn{
+    color: #84c6ef;
+    margin-left: 46%;
+}
+
+#last{
+    margin-left: 43%;
+    margin-top: 10px;
+}
